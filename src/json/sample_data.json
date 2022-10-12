@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "name": "SketchHub",
+      "photo": "",
+      "technologies": ["js", "php", "scss"]
+    }
+  ],
+  "contacts": [
+    {
+      "phone": "+700000000",
+      "email": "vhdev@yandex.ru"
+    }
+  ]
+}
